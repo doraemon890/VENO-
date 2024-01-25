@@ -22,8 +22,5 @@
 
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<br>
-
-<a href="https://t.me/SpiderXM_M"><img src="https://telegra.ph/file/3d777e3d36817fc0ca98a.jpg"></a>
-
+<a href="https://t.me/BWANDARLOK"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 </details>
