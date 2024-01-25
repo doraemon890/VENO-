@@ -9,10 +9,10 @@ START_BUTTON = [
     ],
     [
         Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/venomnexuss"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/BWANDARLOK")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/CDX_WORLD")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/doraemon890/Jarvis-X-spam")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/doraemon890/VENO-")
     ]
 ]
 
