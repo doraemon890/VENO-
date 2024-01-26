@@ -60,7 +60,7 @@ extra_msg = f"""
   2) {hl}leave : Type in the Group bot will auto leave that group
 
 
-**© https://t.me/SpiderXM_M**
+**© @SpiderXM_M**
 """
 
                  
