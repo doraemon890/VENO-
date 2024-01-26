@@ -24,7 +24,7 @@ async def ping(e):
         altron = await e.reply(f"» __Venom__")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
-        await altron.edit(f"__VENOM NEXUS  Is Ready__\n» `{mp} ᴍꜱ`")
+        await altron.edit(f"__VENOM NEXUS Is Ready__\n» `{mp} ᴍꜱ`")
 
 
 @X1.on(events.NewMessage(incoming=True, pattern=r"\%sreboot(?: |$)(.*)" % hl))
